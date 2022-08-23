@@ -16,3 +16,5 @@ My name is Piotr Rębisz. I am a Master of Finance and Accounting. I graduated f
 * [Postman](https://www.postman.com/) - Testing tool for REST API
 # Certificates
 * ISTQB FL No. 11729
+# Courses
+* [Zostań Testerem](https://sii.pl/szkolenia/oferta/zostan-testerem/)
