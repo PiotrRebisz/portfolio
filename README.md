@@ -10,4 +10,4 @@ My name is Piotr Rębisz. I am a Master of Finance and Accounting. I graduated f
 # Tools
 * [JIRA](https://www.atlassian.com/pl/software/jira), [Redmine](https://www.redmine.org/) Issue tracking and project management tool for developers
 * [Tibco Jaspersoft](https://www.jaspersoft.com/) Reporting tool
-* [Screenpresso](https://www.screenpresso.com/), [Sharex] (https://getsharex.com/) Screen capture software
+* [Screenpresso](https://www.screenpresso.com/),[Sharex](https://getsharex.com/) Screen capture software
