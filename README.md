@@ -5,7 +5,6 @@ My name is Piotr Rębisz. I am a Master of Finance and Accounting. I graduated f
 * SQL
 * Software testing
 * Reporting bugs
-* Creating test cases
 * SCRUM
 * Customer service
 # Tools
