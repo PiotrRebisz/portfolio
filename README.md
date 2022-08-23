@@ -7,5 +7,5 @@ My name is Piotr Rębisz. I am a Master of Finance and Accounting. I graduated f
 * SCRUM
 * Software testing
 * Customer service
-#Tools
-*[JIRA]https://www.atlassian.com/pl/software/jira
+# Tools
+* [JIRA](https://www.atlassian.com/pl/software/jira)
