@@ -8,5 +8,5 @@ My name is Piotr Rębisz. I am a Master of Finance and Accounting. I graduated f
 * Software testing
 * Customer service
 # Tools
-* [JIRA](https://www.atlassian.com/pl/software/jira)[Redmine](https://www.redmine.org/) Issue tracking and project management tool for developers
+* [JIRA](https://www.atlassian.com/pl/software/jira), [Redmine](https://www.redmine.org/) Issue tracking and project management tool for developers
 * 
